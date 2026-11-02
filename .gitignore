@@ -1,0 +1,11 @@
+eksctl.zip
+eksctl/
+*.exe
+.kube/
+kubeconfig*
+.aws/
+*.pem
+*.env
+*.png
+*.jpg
+*.docx
